@@ -3,4 +3,5 @@
 
 # Add my linebot as friends
 - Scan this QRCode
-![](https://i.imgur.com/NJ3Qw4s.png =300x300)
+
+![This is an image](https://i.imgur.com/NJ3Qw4s.png)
